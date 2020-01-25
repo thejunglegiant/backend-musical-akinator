@@ -1,0 +1,23 @@
+{
+  "name": "musical-akinator-backend",
+  "version": "1.0.0",
+  "description": "Backend server for musical-akinator web app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all": "0.0.0",
+    "client-sessions": "^0.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "qs": "^6.9.1",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
