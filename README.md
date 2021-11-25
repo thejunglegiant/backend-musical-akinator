@@ -1,7 +1,7 @@
 # Musical Akinator (backend)
 Made by [@thejunglegiant](https://t.me/thejunglegiant) with Node.js, special for [int20h](http://int20h.best-kyiv.org/) hackathon.
 
-Now it should be hosted on Heroku at https://musical-akinator.herokuapp.com/.
+Now it should be hosted on Heroku at https://muz.dkaraush.me/.
 
 This backend app is written to serve content for [Musical Akinator frontend](https://github.com/dkaraush/musical-akinator).
 ## Theory
