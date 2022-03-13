@@ -10,7 +10,7 @@ This app uses [express web framework](https://expressjs.com/) with these API's:
 * [audd.io](https://audd.io/) for recognizing and searching tracks (personal api_token needed)
 * [Genius API](https://docs.genius.com/) for obtaining track's info (personal api_token needed)
 * [Deezer API](https://developers.deezer.com/api) also for obtaining info about tracks (no api_token)
-## Instalation
+## Installation
 * Clone repo
 * Run `npm install`
 * Add your `settings.js` file:
